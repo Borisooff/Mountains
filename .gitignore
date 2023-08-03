@@ -1,1 +1,4 @@
 /node_modules
+/bootstrap/css/
+/bootstrap/js/
+/bootstrap/scss/
